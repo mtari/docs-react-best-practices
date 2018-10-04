@@ -1,6 +1,10 @@
 https://github.com/markerikson/react-redux-links/blob/master/react-architecture.md
 Current:
-https://code.kiwi.com/the-top-5-of-effective-react-984e54cceac3
+https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
+
+Add later:
+https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
+https://www.robinwieruch.de/learn-react-before-using-redux/
 
 Oct 3 8:45 - Oct 4 8:10 
 100% => 63%
@@ -64,6 +68,21 @@ https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 
 ##PropValidation
 https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
+
+##Use React’s context for Global Configuration
+https://www.codecks.io/blog/2017/lessons-learnt-rewriting-react-lib/
+
+##Embrace Components as much as Possible
+https://www.codecks.io/blog/2017/lessons-learnt-rewriting-react-lib/
+
+##Split the render() method
+https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da
+
+##Templatize components by passing React elements as props
+https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da
+
+##Extract common aspects into higher-order components
+https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da
 
 
 
@@ -171,6 +190,9 @@ https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 
 ##Static analysis is your friend
 https://code.kiwi.com/the-top-5-of-effective-react-984e54cceac3
+
+##DevTools for React/Redux as Browser plugins
+https://dev.to/jakoblind/how-to-become-a-more-productive-react-developer
 
 
 
