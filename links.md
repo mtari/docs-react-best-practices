@@ -160,6 +160,7 @@ https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
 
 #Routing
 Almost every client side application has some routing. If you are using React.js in a browser, you will reach the point when you should pick a library.
+
 [Read more about routing](/routing/react-router.md)
 
 
@@ -200,5 +201,6 @@ https://dev.to/jakoblind/how-to-become-a-more-productive-react-developer
 
 
 
-#Code formatting
-http://seanamarasinghe.com/developer/react-best-practices-patterns/
+#Code organization
+
+[Read about code organization](/code/code-organization.md)
