@@ -158,33 +158,20 @@ https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
 
 
 
-#Routing
+Routing
+=======
 Almost every client side application has some routing. If you are using React.js in a browser, you will reach the point when you should pick a library.
 
-[Read more about routing](/routing/react-router.md)
+[Read more about routing](/sections/react-router.md)
 
+Testing
+=======
+[Read more about testing](/sections/testing.md)
 
+Tooling
+=======
+[Read about tools](/sections/tools.md)
 
-#Testing
-
-##Use shallow rendering
-https://camjackson.net/post/9-things-every-reactjs-beginner-should-know#use-shallow-rendering
-
-##Use enzyme
-##Redux testing
-https://blog.risingstack.com/react-js-best-practices-for-2016/
-
-##TDD
-https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react?utm_source=javascriptweekly&utm_medium=email
-
-
-
-#Tooling
-
-[Read about tools](/tools/tools.md)
-
-
-
-#Code organization
-
-[Read about code organization](/code/code-organization.md)
+Code organization
+=================
+[Read about code organization](/sections/code-organization.md)
