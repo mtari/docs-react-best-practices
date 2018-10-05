@@ -22,7 +22,7 @@ class Car extends React.Component {
   propTypes = {
     make: React.PropTypes.string
   };
-  
+
   constructor (props) {
     super(props);
  
@@ -58,3 +58,7 @@ class Car extends React.Component {
   },
 }
 ```
+
+##Source 
+
+(http://seanamarasinghe.com/developer/react-best-practices-patterns/)[http://seanamarasinghe.com/developer/react-best-practices-patterns/]

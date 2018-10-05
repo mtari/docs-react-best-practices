@@ -199,6 +199,8 @@ https://code.kiwi.com/the-top-5-of-effective-react-984e54cceac3
 ##DevTools for React/Redux as Browser plugins
 https://dev.to/jakoblind/how-to-become-a-more-productive-react-developer
 
+[Read about tools](/tools/tools.md)
+
 
 
 #Code organization
