@@ -5,12 +5,14 @@ https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-compon
 Add later:
 https://hackernoon.com/10-react-mini-patterns-c1da92f068c5
 https://www.robinwieruch.de/learn-react-before-using-redux/
+https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
+https://americanexpress.io/clean-code-dirty-code/
 
 Oct 3 8:45 - Oct 4 8:10 
 100% => 63%
 
-Oct 4 9:00 - Oct 5 ?:??
-100% => ??%
+Oct 4 9:00 - Oct 5 8:15
+100% => 65%
 
 ##Write functional components
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know#write-functional-components
@@ -113,6 +115,10 @@ https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
 ##Remove logic from components
 https://code.kiwi.com/the-top-5-of-effective-react-984e54cceac3
 
+##"Single responsibility"
+##"Encapsulated"
+https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
+
 
 
 #Styling
@@ -153,10 +159,8 @@ https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
 
 
 #Routing
-
-##Use react-router
-##Code splitting, lazy loading
-https://blog.risingstack.com/react-js-best-practices-for-2016/
+Almost every client side application has some routing. If you are using React.js in a browser, you will reach the point when you should pick a library.
+[Read more about routing](/routing/react-router.md)
 
 
 
