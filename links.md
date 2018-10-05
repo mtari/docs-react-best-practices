@@ -181,24 +181,6 @@ https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react?ut
 
 #Tooling
 
-##Use JSX, ES6, Babel, Webpack, and NPM
-##Use the React and Redux dev tools
-https://camjackson.net/post/9-things-every-reactjs-beginner-should-know#tooling
-
-##Component-level hot reload
-##Linters
-##GraphQL and Relay
-https://blog.risingstack.com/react-js-best-practices-for-2016/
-
-##Use ES6, Webpack, JSX
-https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
-
-##Static analysis is your friend
-https://code.kiwi.com/the-top-5-of-effective-react-984e54cceac3
-
-##DevTools for React/Redux as Browser plugins
-https://dev.to/jakoblind/how-to-become-a-more-productive-react-developer
-
 [Read about tools](/tools/tools.md)
 
 
