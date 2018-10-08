@@ -26,12 +26,6 @@ https://www.codecks.io/blog/2017/lessons-learnt-rewriting-react-lib/
 
 
 
-#Render 
-
-##Split the render() method
-https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da
-
-
 
 #Optimization
 
@@ -165,6 +159,9 @@ https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
 https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 
 
+Render method
+=============
+[Read more about rendering](/sections/render-function.md)
 
 Routing
 =======
