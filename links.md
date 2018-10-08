@@ -16,15 +16,6 @@ Oct 4 9:00 - Oct 5 8:15
 
 
 
-#Dependency injection
-
-##How to Use Dependency Injection in React.js Application?
-https://www.toptal.com/react/tips-and-practices
-
-##Use React’s context for Global Configuration
-https://www.codecks.io/blog/2017/lessons-learnt-rewriting-react-lib/
-
-
 
 
 #Optimization
@@ -168,6 +159,10 @@ Routing
 Almost every client side application has some routing. If you are using React.js in a browser, you will reach the point when you should pick a library.
 
 [Read more about routing](/sections/react-router.md)
+
+Dependency injection
+====================
+[Read more about dependency injection](/sections/dependency-injection.md)
 
 Styling
 =======
