@@ -17,20 +17,6 @@ Oct 4 9:00 - Oct 5 8:15
 
 
 
-
-#Lifecycle
-
-##Do more in componentDidUpdate
-https://engineering.siftscience.com/best-practices-for-building-large-react-applications/
-
-##Optimize by understanding the component’s lifecycle
-https://ignaciochavez.com/helpful-principles-starting-react/
-
-##Use ShouldComponentUpdate for performance optimization
-https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
-
-
-
 #PropTypes
 
 ##PropType
@@ -129,6 +115,9 @@ https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
 ##What about State?
 https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 
+Lifecycle
+=========
+[Read more about lifecycle methods](/section/lifecycle.md)
 
 Refs
 ====
