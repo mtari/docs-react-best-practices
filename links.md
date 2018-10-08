@@ -18,16 +18,6 @@ Oct 4 9:00 - Oct 5 8:15
 
 
 
-#Optimization
-
-##Templatize components by passing React elements as props
-https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da
-
-##Think about inmutability
-https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
-
-
-
 #Lifecycle
 
 ##Do more in componentDidUpdate
@@ -179,3 +169,7 @@ Tooling
 Code organization
 =================
 [Read about code organization](/sections/code-organization.md)
+
+Optimization
+============
+[Read about code optimization](/sections/optimization.md)
