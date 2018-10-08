@@ -14,28 +14,32 @@ Oct 3 8:45 - Oct 4 8:10
 Oct 4 9:00 - Oct 5 8:15
 100% => 65%
 
-## How to Deal with this Reference Inside the Promise?
-https://www.toptal.com/react/tips-and-practices
+
+
+#Dependency injection
 
 ##How to Use Dependency Injection in React.js Application?
 https://www.toptal.com/react/tips-and-practices
 
-##Think about inmutability
-https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
-
 ##Use React’s context for Global Configuration
 https://www.codecks.io/blog/2017/lessons-learnt-rewriting-react-lib/
 
-##Embrace Components as much as Possible
-https://www.codecks.io/blog/2017/lessons-learnt-rewriting-react-lib/
+
+
+#Render 
 
 ##Split the render() method
 https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da
 
+
+
+#Optimization
+
 ##Templatize components by passing React elements as props
 https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da
 
-
+##Think about inmutability
+https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 
 
 
@@ -124,21 +128,11 @@ https://ignaciochavez.com/helpful-principles-starting-react/
 https://camjackson.net/post/9-things-every-reactjs-beginner-should-know#write-functional-components
 
 ##HOC
-##Higher order components
+###Higher order components
 https://blog.risingstack.com/react-js-best-practices-for-2016/
 
-##Extract common aspects into higher-order components
+###Extract common aspects into higher-order components
 https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef5da
-
-
-
-#Styling
-
-##Avoid className and Style in Your Components
-https://www.toptal.com/react/tips-and-practices
-
-##Reuse through React instead of CSS
-https://engineering.siftscience.com/best-practices-for-building-large-react-applications/
 
 
 
@@ -177,6 +171,10 @@ Routing
 Almost every client side application has some routing. If you are using React.js in a browser, you will reach the point when you should pick a library.
 
 [Read more about routing](/sections/react-router.md)
+
+Styling
+=======
+[Read more about styling](/sections/styling.md)
 
 Testing
 =======
