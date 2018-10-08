@@ -115,13 +115,14 @@ https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
 ##What about State?
 https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
 
+
 Lifecycle
 =========
-[Read more about lifecycle methods](/section/lifecycle.md)
+[Read more about lifecycle methods](/sections/lifecycle.md)
 
 Refs
 ====
-[Read more about refs](/section/refs.md)
+[Read more about refs](/sections/refs.md)
 
 Render method
 =============
