@@ -64,34 +64,9 @@ https://medium.com/dailyjs/techniques-for-decomposing-react-components-e8a1081ef
 
 
 
-#State
-
-##Write stateless components
-##Use Redux.js
-https://camjackson.net/post/9-things-every-reactjs-beginner-should-know#use-redux-js
-
-##Bump it up
-##Separating UI details from interaction logic
-##What about Flux?
-https://engineering.siftscience.com/best-practices-for-building-large-react-applications/
-
-##Use Redux/Flux
-https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
-
-##Immutable data representation
-https://medium.com/building-asana/designing-simpler-react-components-13a0061afd16
-
-##Keep your state flat
-##Use immutable states
-https://blog.risingstack.com/react-js-best-practices-for-2016/
-
-##Avoid state when possible
-##Use state the right way
-https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
-
-##What about State?
-https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
-
+State
+=====
+[Read more about state](/sections/state.md)
 
 Lifecycle
 =========
