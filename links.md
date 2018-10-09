@@ -16,29 +16,6 @@ Oct 4 9:00 - Oct 5 8:15
 
 
 
-
-#PropTypes
-
-##PropType
-https://blog.risingstack.com/react-js-best-practices-for-2016/
-
-##Use PropTypes
-https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
-
-##Use Prop validation
-https://medium.com/@nesbtesh/react-best-practices-a76fd0fbef21
-
-##PropValidation
-https://thoughts.travelperk.com/writing-a-good-react-component-59624ed40b8e
-
-##Always set propTypes for validation and self-documentation
-https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/
-
-##Always use propTypes
-https://camjackson.net/post/9-things-every-reactjs-beginner-should-know#always-use-proptypes
-
-
-
 #Components
 
 ##Functional Components
@@ -123,6 +100,10 @@ Lifecycle
 Refs
 ====
 [Read more about refs](/sections/refs.md)
+
+PropTypes
+=========
+[Read more about PropTypes](/sections/proptypes.md)
 
 Render method
 =============
