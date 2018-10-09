@@ -1,5 +1,5 @@
-==========
 Components
+==========
 [Read more about components](/sections/components.md)
 
 State
